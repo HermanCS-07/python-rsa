@@ -1,4 +1,5 @@
 # Python RSA Implementation Project
+![image](https://github.com/user-attachments/assets/7f34724f-e15d-4c0e-8172-6970b7d21d2a)
 
 This project is a Python implementation of the RSA algorithm for encrypting and decrypting messages.
 
@@ -15,7 +16,14 @@ To use this tool, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/HermanCS-07/python-rsa.git
+```
 
+## Usage
+To start using this tool, simply run it with python:
+
+```bash
+python3 ./RSA.py
+```
 
 
 
