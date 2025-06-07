@@ -16,6 +16,7 @@ To use this tool, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/HermanCS-07/python-rsa.git
+cd python-rsa
 ```
 
 ## Usage
